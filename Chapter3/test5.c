@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//for문
+#include <stdio.h>
 int main(){
 	int a=0, sum=0;
 	for (a=1;a<=10;a++){
@@ -7,4 +8,4 @@ int main(){
 	}
 	printf("%d\n",sum);
 	return 0;
-}*/
+}
