@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//ë¹„íŠ¸ì—°ì‚°
+#include <stdio.h>
 int main () {
 	int a,b,c;
 
@@ -8,16 +9,16 @@ int main () {
 	scanf("%d",&b);
 
 	c = a & b;
-	printf("a & b´Â %d\n",c);
+	printf("a & bëŠ” %d\n",c);
 
 	c = a | b;
-	printf("a | b´Â %d\n",c);
+	printf("a | bëŠ” %d\n",c);
 
 	c = a ^ b;
-	printf("a ^ b´Â %d\n",c);
+	printf("a ^ bëŠ” %d\n",c);
 
 	c = ~a;
-	printf("~a´Â %08x(%d)\n",c,c);
+	printf("~aëŠ” %08x(%d)\n",c,c);
 
 	return 0;
-}*/
+}
