@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//루트
+#include <stdio.h>
 #include <math.h>
 int main(){
 	float a, result;
@@ -9,4 +10,3 @@ int main(){
 
 	return 0;
 }
-*/
