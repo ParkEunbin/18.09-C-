@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//문자열 입력
+#include <stdio.h>
 
 int main(){
 	char a;
@@ -8,4 +9,4 @@ int main(){
 	printf("\n");
 
 	return 0;
-}*/
+}
