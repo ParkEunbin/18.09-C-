@@ -1,4 +1,5 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+//ê°’ ë°”ê¾¸ê¸°
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 void change(int a, int b) {
 	int temp = a;
@@ -9,15 +10,15 @@ void change(int a, int b) {
 
 int main() {
 	int a, b;
-	printf("aÀÔ·Â:");
+	printf("aìž…ë ¥:");
 	scanf("%d", &a);
-	printf("bÀÔ·Â:");
+	printf("bìž…ë ¥:");
 	scanf("%d", &b);
 	change(a, b);
 
 	return 0;
 }
-
-aÀÔ·Â:5
-	bÀÔ·Â : 7
-	a = 7, b = 5*/
+/*
+aê°’:5
+bê°’: 7
+a = 7, b = 5*/
