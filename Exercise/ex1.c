@@ -1,4 +1,4 @@
-/*1.½Ç¼öÇü ÀÏÂ÷¿ø ¹è¿­°ú ½Ç¼ö a¸¦ ¸Å°³º¯¼ö·Î ¹Ş¾Æ ¹è¿­¿¡¼­ aº¸´Ù ÀÛÀº ¼öµéÀÇ ÇÕÀ» ¹İÈ¯ÇÏ´Â ÇÔ¼ö¸¦ ÀÛ¼ºÇÏ°í Å×½ºÆ® ÇÏ½Ã¿À.
+//ì‹¤ìˆ˜í˜• ì¼ì°¨ì› ë°°ì—´ê³¼ ì‹¤ìˆ˜ aë¥¼ ë§¤ê°œë³€ìˆ˜ë¡œ ë°›ì•„ ë°°ì—´ì—ì„œ aë³´ë‹¤ ì‘ì€ ìˆ˜ë“¤ì˜ í•©ì„ ë°˜í™˜í•˜ëŠ” í•¨ìˆ˜ë¥¼ ì‘ì„±
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 void fun1(float* num, float a) {
@@ -10,7 +10,7 @@ void fun1(float* num, float a) {
 		}
 	}
 
-	printf("ÇÕ=%.2f", sum);
+	printf("í•©=%.2f", sum);
 
 }
 int main() {
@@ -21,8 +21,8 @@ int main() {
 		printf("num[%d]=", i);
 		scanf("%f", &num[i]);
 	}
-	printf("a°ª=");
+	printf("aê°’=");
 	scanf("%f", &a);
 
 	fun1(num, a);
-}*/
+}
