@@ -1,8 +1,9 @@
+//인사 출력
 #include<stdio.h>
 
 int main (){
 	
-	printf(" \n");
+	printf(" Hello!\n");
 
 	return 0;
 }
