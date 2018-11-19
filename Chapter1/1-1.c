@@ -1,4 +1,4 @@
-//인사 출력
+// 인사 출력
 #include<stdio.h>
 
 int main (){
