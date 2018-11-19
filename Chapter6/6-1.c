@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//포인터
+#include <stdio.h>
 int main() {
 	int a = 10;
 	int *ptr;
@@ -10,7 +11,7 @@ int main() {
 
 	return 0;
 }
-
+/*
 19921708
-19921708 - a�� �ּ�
+19921708 - aÀÇ ÁÖ¼Ò
 10*/
