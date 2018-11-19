@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//형변환
+#include <stdio.h>
 
 int main(void){
 	int a=10, b=20, c;
@@ -15,4 +16,3 @@ int main(void){
 
 	return 0;
 }
-*/
