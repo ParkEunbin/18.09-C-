@@ -1,22 +1,23 @@
-/*#include <stdio.h>
+//í™€ì§ ë°˜ë³µë¬¸
+#include <stdio.h>
 int main(){
 	int a=0;
 	
 	while(1){
-		printf("±×¸¸ µÎ·Á¸é 0¸¦ ÀÔ·Â\n");
+		printf("ê·¸ë§Œ ë‘ë ¤ë©´ 0ë¥¼ ì…ë ¥\n");
 		printf("a=");
 		scanf("%d",&a);
 		if (a==0){
-			printf("Á¾·á.\n");
+			printf("ì¢…ë£Œ.\n");
 			break;}
 		else if (a%2==0 ){
-			printf("Â¦¼öÀÓ.\n");
+			printf("ì§ìˆ˜ì„.\n");
 			continue;}
 		else if (a%2==1 ){
-			printf("È¦¼öÀÓ.\n");
+			printf("í™€ìˆ˜ì„.\n");
 			continue;}
 		
 	}
 	return 0;
 
-}*/
+}
