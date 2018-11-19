@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//ì‚¼í•­ ë…¼ë¦¬ì—°ì‚°ì
+#include <stdio.h>
 int main (){
 	int a, b;
 	printf("a:");
@@ -6,8 +7,8 @@ int main (){
 	printf("b:");
 	scanf("%d",&b);
 
-	(a<b)?printf("b°¡ aº¸´Ù Å­\n"):printf("a°¡ bº¸´Ù Å©°Å³ª °°À½\n");
+	(a<b)?printf("bê°€ aë³´ë‹¤ í¼\n"):printf("aê°€ bë³´ë‹¤ í¬ê±°ë‚˜ ê°™ìŒ\n");
 
 	system("pause");
 	return 0;
-}*/
+}
