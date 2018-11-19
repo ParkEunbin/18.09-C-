@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//실수형 크기
+#include <stdio.h>
 int main(){
 	short a;
 	a=32769;
@@ -10,4 +11,4 @@ int main(){
 	printf("%f\n",ff);
 	printf("%lf\n",df);
 	return 0;
-}*/
+}
