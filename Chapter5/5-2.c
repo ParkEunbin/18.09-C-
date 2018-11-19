@@ -1,4 +1,4 @@
-//ÆÑÅä¸®¾ó ÇÔ¼ö
+//íŒ©í† ë¦¬ì–¼ í•¨ìˆ˜
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 int factorial(int n) {
