@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//ì§€ì—­ë³€ìˆ˜, ì „ì—­ë³€ìˆ˜ íŒë³„
+#include <stdio.h>
 int gval = 0;
 void sum();
 int main() {
@@ -17,18 +18,18 @@ void sum() {
 	int lval = 0;
 	gval++;
 	lval++;
-	printf("Àü¿ªº¯¼ö:%d\n", gval);
-	printf("Áö¿ªº¯¼ö:%d\n", lval);
+	printf("ì „ì—­ë³€ìˆ˜:%d\n", gval);
+	printf("ì§€ì—­ë³€ìˆ˜:%d\n", lval);
 }
 
-
-Àü¿ªº¯¼ö:1
-	Áö¿ªº¯¼ö : 1
-	Àü¿ªº¯¼ö : 2
-	Áö¿ªº¯¼ö : 1
-	Àü¿ªº¯¼ö : 3
-	Áö¿ªº¯¼ö : 1
-	Àü¿ªº¯¼ö : 4
-	Áö¿ªº¯¼ö : 1
-	Àü¿ªº¯¼ö : 5
-	Áö¿ªº¯¼ö : 1*/
+/*
+ì „ì—­ë³€ìˆ˜:1
+	ì§€ì—­ë³€ìˆ˜ : 1
+	ì „ì—­ë³€ìˆ˜ : 2
+	ì§€ì—­ë³€ìˆ˜ : 1
+	ì „ì—­ë³€ìˆ˜ : 3
+	ì§€ì—­ë³€ìˆ˜ : 1
+	ì „ì—­ë³€ìˆ˜ : 4
+	ì§€ì—­ë³€ìˆ˜ : 1
+	ì „ì—­ë³€ìˆ˜ : 5
+	ì§€ì—­ë³€ìˆ˜ : 1*/
