@@ -1,4 +1,4 @@
-/*¹è¿­ ¿ø¼Ò ÇÕ±¸ÇÏ±â
+//ë°°ì—´ ì›ì†Œ í•©êµ¬í•˜ê¸°
 #include<stdio.h>
 int sumarray(int Array[], int Size) {
 	int i, result = 0;
@@ -13,8 +13,8 @@ int main() {
 	int result = 0;
 	result = sumarray(a, 3);
 
-	printf("ÇÕ°è:%d\n", result);
+	printf("í•©ê³„:%d\n", result);
 	return 0;
 }
 
-//ÇÕ°è:9*/
+//í•©ê³„:9
