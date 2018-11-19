@@ -1,4 +1,5 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+//삼차원 배열 생성
+#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 int main() {
 	int a[3][3][3];
@@ -24,7 +25,7 @@ int main() {
 
 	return 0;
 }
-
+/*
 a[0][0][0] : 1
 a[0][0][1] : 2
 a[0][0][2] : 3
