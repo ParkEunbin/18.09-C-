@@ -1,4 +1,4 @@
-//형변환
+//형 변환
 #include <stdio.h>
 
 int main(void){
