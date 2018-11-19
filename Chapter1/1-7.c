@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//문자형
+#include <stdio.h>
 
 int main(){
 	char f;
@@ -7,4 +8,4 @@ int main(){
 	printf("%c",f);
 	
 	return 0;
-}*/
+}
