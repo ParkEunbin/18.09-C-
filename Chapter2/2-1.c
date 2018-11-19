@@ -1,4 +1,5 @@
-/*#include<stdio.h>
+//참거짓 판단
+#include<stdio.h>
 int main(){
 	int a,b;
 	printf("a=");
@@ -14,4 +15,4 @@ int main(){
 	printf("a!=b=%d\n",a!=b);
 
 	return 0;
-}*/
+}
