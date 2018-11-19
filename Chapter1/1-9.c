@@ -1,4 +1,4 @@
-//문자열 입력
+//문자 입출력
 #include <stdio.h>
 
 int main(){
