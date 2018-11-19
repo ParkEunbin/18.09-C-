@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//문자열 입출력
+#include <stdio.h>
 
 int main(){
 	char Name[20];
@@ -8,4 +9,3 @@ int main(){
 
 	return 0;
 }
-*/
