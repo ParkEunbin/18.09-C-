@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+//정수형 연산
+#include <stdio.h>
 
 int main(){
 	int a,b;
@@ -6,9 +7,9 @@ int main(){
 	scanf("%d",&a);
 	printf("b=");
 	scanf("%d",&b);
-	//c=a+b;
+	
 	printf("%d+%d=%d\n",a,b,a+b);
 	
 	return 0;
-}*/
+}
 
