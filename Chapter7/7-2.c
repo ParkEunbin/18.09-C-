@@ -1,3 +1,4 @@
+//ì—¬ëŸ¬ëª… 
 #include <stdio.h>
 #include <string.h>
 struct score{
@@ -12,14 +13,14 @@ int main(){
 		char b[10];
 		double c;
 		struct score s;
-		printf("ÇĞ¹ø,ÀÌ¸§,ÇĞÁ¡ÀÔ·Â:");
+		printf("í•™ë²ˆ,ì´ë¦„,í•™ì ì…ë ¥:");
 		scanf("%d",&a);
 		scanf("%s",&b);
 		scanf("%lf",&c);
 		s.num=a;
 		strcpy(s.name,b);
 		s.grade=c;
-		printf("ÇĞ¹ø:%d,ÀÌ¸§:%s,ÇĞÁ¡:%.1f \n",s.num,s.name,s.grade);
+		printf("í•™ë²ˆ:%d,ì´ë¦„:%s,í•™ì :%.1f \n",s.num,s.name,s.grade);
 	
 	}
 	return 0;
